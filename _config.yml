@@ -1,0 +1,21 @@
+title:  Myunggwan Choi
+description: Web Developer & Engineer
+site_title: '@mkchoi - Myunggwan Choi'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: BoxerChoi
+# blog_url: 
+email: sh20151889@gmail.com
+#keybase_username: mkchoi
+#twitter_username: mkchoi
+#reddit_username: mkchoi
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
