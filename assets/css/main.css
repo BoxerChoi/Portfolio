@@ -5,7 +5,7 @@ body {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
   max-height: 100%;
 }
 
@@ -206,7 +206,7 @@ img {
 }
 
 .section-wrapper:nth-child(odd) {
-  background: url(../images/background.png);
+  background: url(../images/background_2.png);
   background-repeat: repeat;
 }
 
@@ -369,7 +369,7 @@ img {
   font-size: 0.9rem;
 }
 
-.extra {
+.  {
   margin-bottom: 0px;
 }
 
@@ -423,12 +423,12 @@ img {
 }
 
 #nav {
-  background: url(../images/background.png);
+  background: url(../images/background_2.png);
   background-repeat: repeat;
 }
 
 a {
-  color: #222;
+  color: #cee272;
 }
 
 .extra-links {
