@@ -16,7 +16,7 @@ let render_projects = (slug) => {
       demo: false,
       technologies: ["React", "Rest-API"],
       description:
-        "Enjoy News ariticle and daily schedule manager while having coffee break",
+        "Enjoy News ariticle and daily schedule manager while having coffee break.",
       categories: ["featured", "webdev"],
     },
     {
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
       demo: false,
       technologies: ["Spring-boot", "React"],
       description:
-        "You can receive automatic error report. This is availble on Windows and Linux platform",
+        "You can receive automatic error report. This is availble on Windows and Linux platform.",
       categories: ["featured", "tools"],
     },
   ];
